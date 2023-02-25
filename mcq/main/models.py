@@ -21,4 +21,8 @@ class Answer(models.Model):
 # from django.db import models
 
 # Create your models here.
+<<<<<<< Updated upstream
 >>>>>>> 0b691d5363afa313b4a49b63f8f5bd38e1838c7b
+=======
+>>>>>>> 6057bc7c6736643eccf0c8100cf7d040fbc5ba66
+>>>>>>> Stashed changes
