@@ -8,3 +8,6 @@ from django.views import View
 class Index(View):
     def get(self, request):
         return HttpResponse("<h1>this is the project for mcq</h1>")
+
+    def post(self, request):
+        return HttpResponse("abc")
