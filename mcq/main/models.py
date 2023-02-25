@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from django.db import models
 
 
@@ -16,3 +17,8 @@ class Answer(models.Model):
     ans3 = models.CharField(max_length=30)
     ans4 = models.CharField(max_length=30)
     reason = models.CharField(max_length=500)
+=======
+# from django.db import models
+
+# Create your models here.
+>>>>>>> 0b691d5363afa313b4a49b63f8f5bd38e1838c7b
